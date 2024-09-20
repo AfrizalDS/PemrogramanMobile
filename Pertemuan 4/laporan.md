@@ -1,6 +1,6 @@
-# Nama   : Afrizal Dwi Septian
-# Kelas  : TI-3A
-# Absen  : 01
+## Nama   : Afrizal Dwi Septian
+## Kelas  : TI-3A
+## Absen  : 01
 
 # Praktikum 1 : Eksperimen Tipe Data List
 ## Langkah 1 
@@ -509,4 +509,3 @@ Jawab: Di dalam Dart, dapat menggunakan Map untuk mengembalikan beberapa nilai d
  Output: Name: Alice, Hobbies: sleep
 
 8.Kumpulkan berupa link commit repo GitHub pada tautan yang telah disediakan di grup Telegram!
-Jawab: Siap
